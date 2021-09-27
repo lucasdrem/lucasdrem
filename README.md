@@ -66,7 +66,7 @@
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdrem&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasdrem&bg_color=0d1117&text_color=FFF&border_color=444@v2">
   </a>
 </p>
 
