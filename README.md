@@ -10,7 +10,7 @@
 
 - :man_technologist: Always studying React, Next JS, Node.js, React Native, Flutter and the best patterns and algorithms in Javascript/Typescript. But also interested in Django REST, GraphQL and Rust.
 
-- :speech_balloon: Ask me about React JS, Node.js, web development, music, instruments and games!
+- :speech_balloon: Ask me about React JS, Node.js, web development, music, musical instruments and games!
 
 - :mailbox: You can reach me with the links below:
 
