@@ -8,7 +8,7 @@
 
 - :computer: Software Engineer at X-Team;
 
-- :man_technologist: Always studying React, Next JS, Node.js, React Native, Flutter and the best patterns and algorithms in Javascript/Typescript. But also interested in Django REST, GraphQL and Rust.
+- :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Django REST, Flutter, GraphQL and Rust.
 
 - :speech_balloon: Ask me about React JS, Node.js, web development, music, musical instruments and games!
 
