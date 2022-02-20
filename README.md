@@ -6,7 +6,7 @@
 
 - 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
 
-- :computer: Software Engineer and Partner at Neorisk;
+- :computer: Software Engineer at X-Team;
 
 - :man_technologist: Always studying React, Next JS, Node.js, React Native, Flutter and the best patterns and algorithms in Javascript/Typescript. But also interested in Django REST, GraphQL and Rust.
 
