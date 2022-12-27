@@ -2,13 +2,13 @@
 
 ### I'm Lucas Grober
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="450" style="margin-left: 8px"/>
 
 - 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
 
 - :computer: Software Engineer at X-Team;
 
-- :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Django REST, Flutter, GraphQL and Rust.
+- :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Web3, Django REST, and GraphQL.
 
 - :speech_balloon: Ask me about React JS, Node.js, web development, music, musical instruments and games!
 
