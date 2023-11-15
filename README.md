@@ -6,7 +6,7 @@
 
 - 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
 
-- :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Web3, Django REST, Game dev and Rust.
+- :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Web3, Django REST, Game Development and Rust.
 
 - :speech_balloon: Ask me about React JS, Node.js, web development, music, musical instruments and games!
 
