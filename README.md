@@ -2,7 +2,7 @@
 
 ### I'm Lucas Grober
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="450" style="max-width:95%"/>
+<img alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
 - 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
 
