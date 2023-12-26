@@ -4,6 +4,8 @@
 
 <img alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 
+- :raising_hand: Autistic Person;
+
 - 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
 
 - :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Web3, Django REST, Game Development and Rust.
