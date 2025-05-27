@@ -6,7 +6,7 @@
 
 - :raising_hand: Autistic Person;
 
-- 🎓 Chemical Engineer graduated from USP/POLI - São Paulo / Brazil;
+- 🎓 Engineer graduated from USP/POLI - São Paulo / Brazil;
 
 - :man_technologist: Always studying React, Next JS, Node.js, React Native and the best patterns and algorithms in Javascript/Typescript. But also interested in Game Development, Rust and Django REST.
 
